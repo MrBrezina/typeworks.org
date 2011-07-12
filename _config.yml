@@ -1,2 +1,7 @@
+safe: true
 auto: true
-permalink: /:year/:month/:day/:title
+destination: _site
+source: .
+lsi: false
+pygments: true
+permalink: none
