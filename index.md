@@ -57,8 +57,11 @@ Pro bližší informace a rezervace pište na <info@typetalks.org> nebo sledujt
 
 ## FAQ
 
+**Q: Předpoklady?  **  
+**A:** Neklademe omezení na věk ani formální vzdělání účastníků. Předpokládáme zkušenosti z grafického designu a dobrou znalost programů Adobe InDesign a Adobe Illustrator (nebo podobný kreslící nástroj) a samozřejmě schopnost/ochotu se učit FontLab Studio či podobný nástroj (viz níže).
+
 **Q: Potřebuji licenci na FontLab Studio?  **  
-A: Pro účely workshopu postačí demoverze, která je [ke stažení na stránkách FontLabu](http://www.fontlab.com/font-editor/fontlab-studio/), či alternativní aplikace jako například [Fontographer](http://www.fontlab.com/font-editor/fontographer/), [Glyphs](http://glyphsapp.com/) či [FontForge](http://fontforge.sourceforge.net/). Ovšem k poslednímu uvedenému můžeme nabídnout jen omezenou podporu. Studenti AGD FaVU mají licenci FontLab Studia 5 k dispozici v ateliéru.
+**A:** Pro účely workshopu postačí demoverze, která je [ke stažení na stránkách FontLabu](http://www.fontlab.com/font-editor/fontlab-studio/), či alternativní aplikace jako například [Fontographer](http://www.fontlab.com/font-editor/fontographer/), [Glyphs](http://glyphsapp.com/) či [FontForge](http://fontforge.sourceforge.net/). Ovšem k posledním uvedenému dvěma můžeme nabídnout jen omezenou podporu. Studenti AGD FaVU mají licenci FontLab Studia 5 k dispozici v ateliéru.
 
 **Q: Are foreigners welcome?**  
 **A:** Wholeheartedly! FaVU usually has one or two exchange students anyway. However, note that most of the lectures will be in Czech (that is the first day), the rest (two days out of three) consists of individual consultations on students’/participants’ projects. These can be done in English. Get in touch with us via email, we are happy to help and answer your questions.
@@ -70,5 +73,3 @@ The workshop will be rather short and experimental. One cannot expect any seriou
 
 **Q: Ubytování.**  
 **A:** Ubytování si musí účastníci zajistit na svoje náklady sami. Adresa budovy, kde se nachází ateliér AGD je: [Rybářská 125/13/15, 603 00 Brno](http://maps.google.cz/maps?q=Ryb%C3%A1%C5%99sk%C3%A1+125%2F13%2F15,+603+00+Brno&hl=cs&ie=UTF8&sll=49.930008,15.369873&sspn=5.707778,9.854736&brcurrent=5,0,0&t=h&z=16). Samozřejmě doporučujeme [Hotel Jonathan](http://www.hoteljonathan.cz) (5 min. busem, ošklivé stránky prosím ignorujte). Hotel nabízí pro účastníky TypeWorks slevu 15 %.
-
-..
