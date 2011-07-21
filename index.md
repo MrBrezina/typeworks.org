@@ -9,7 +9,7 @@ V průběhu podzimních měsíců roku 2011 proběhnou na [FaVU VUT](http://www.
 
 ## Program
 
-Workshopy povede typograf a písmař [David Březina](http://davi.cz). Budou určeny zvláště pro grafické designéry, kteří chtějí začít s tvorbou písma na počítači nebo prohloubit svoje znalosti. Vždy první den (pátek) bude více teoretický, další dva (sobota, neděle) budou převážně praktické (individuální konzultace samostatné práce). Jedním z výstupů workshopu by měl být fungující prototyp písmového fontu.
+Workshopy povede typograf a písmař [David Březina](http://davi.cz) z [Rosetta Type Foundry](http://rosettatype.com). Budou určeny zvláště pro grafické designéry, kteří chtějí začít s tvorbou písma na počítači nebo prohloubit svoje znalosti. Vždy první den (pátek) bude více teoretický, další dva (sobota, neděle) budou převážně praktické (individuální konzultace samostatné práce). Jedním z výstupů workshopu by měl být fungující prototyp písmového fontu.
 
 Program je předběžný, je možné ho po domluvě upravit podle přání účastníků. Workshopy budou volně navazovat, je tedy možné se účastnit pouze některých. Rovněž předpokládáme práci na vlastním písmu mezi jednotlivými workshopy a „domácí úkol“ před prvním workshopem. Další detaily budeme postupně upřesňovat.
 
