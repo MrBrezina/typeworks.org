@@ -1,6 +1,6 @@
 ---
 layout: layout
-title: TypeWorks
+title: Intro
 ---
 
 V průběhu podzimních měsíců roku 2011 proběhnou na [FaVU VUT](http://www.ffa.vutbr.cz/) v Brně **tři třídenní workshopy** věnované tvorbě typografického písma. Workshopy budou určeny primárně studentům Ateliéru grafického designu na FaVU, zároveň jsou však otevřeny pro **3–5 účastníků z řad veřejnosti**. Celkový počet účastníků se bude pohybovat okolo 15–17 osob.
@@ -74,5 +74,3 @@ The workshop will be rather short and experimental. One cannot expect any seriou
 
 **Q: Ubytování.**  
 **A:** Ubytování si musí účastníci zajistit na svoje náklady sami. Adresa budovy, kde se nachází ateliér AGD je: [Rybářská 125/13/15, 603 00 Brno](http://maps.google.cz/maps?q=Ryb%C3%A1%C5%99sk%C3%A1+125%2F13%2F15,+603+00+Brno&hl=cs&ie=UTF8&sll=49.930008,15.369873&sspn=5.707778,9.854736&brcurrent=5,0,0&t=h&z=16). Samozřejmě doporučujeme [Hotel Jonathan](http://www.hoteljonathan.cz) (5 min. busem, ošklivé stránky prosím ignorujte). Hotel nabízí pro účastníky TypeWorks slevu 15 %.
-
-.

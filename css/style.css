@@ -110,7 +110,7 @@ body {
 	-webkit-tap-highlight-color: rgb(255, 236, 202);
 }
 
-h1, h2, h3, p { width: 528px; }
+h1, h2, h3, p, ul, ol { width: 528px; }
 
 img { padding: 0 20px 20px 0; }
 .images { width: 100%;}
