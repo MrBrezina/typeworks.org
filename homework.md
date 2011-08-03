@@ -39,7 +39,7 @@ The „homework“ consists of two parts: sketching and reading.
 V češtině jsem se snažil vybrat literaturu, která je snáze dostupná a vynechal jsem drahé a tlusté knihy typu *Typografia*, *Typografická písma latinková* či *Krásné písmo*. Velmi užitečná kniha je *Tvorba typografického písma* od Oldřicha Menharta. Ta se ovšem těžko shání.
 
 - František Štorm, **Eseje o typografii**. Revolver Revue, Praha, 2008.
-- **Recenze písem v časopise Typo** (Greta / číslo 31, Arno / 31, Nami / 32, Maiola / 33, Fakir / 33,  Archer / 34, MATD 2008 / 35, Klimax / 36, Odile & Elido / 36, Marat Pro / 38, Tomate & Lavigne Display / 39, FF Tisa / 40, Celeste / 41, FF Yoga / 42)
+- **Recenze písem v časopise Typo** (Greta / číslo 31, Arno / 31, Nami / 32, [Maiola](http://davi.cz/Writings/2011_Maiola-experience-the-czechness.html) / 33, Fakir / 33,  Archer / 34, MATD 2008 / 35, Klimax / 36, Odile & Elido / 36, Marat Pro / 38, Tomate & Lavigne Display / 39, FF Tisa / 40, Celeste / 41, FF Yoga / 42)
 
 
 ### Čtení v angličtině / Reading in English
@@ -53,7 +53,7 @@ The cheapest way to get these books is (imho) buying used copy on [Abe Books](ht
 - Fred Smeijers, **Counterpunch: making type in the sixteenth century; designing typefaces now**. London, Hyphen Press, 1996. (second edition is due in October 2011)
 - Walter Tracy, **Letters of credit: a view of type design**. London, Gordon Fraser, 1986.
 - Gerard Unger, **While you’re reading**. Mark Batty Publisher, 2007.
-- **Type reviews in Typo magazine** (Greta / issue 31, Arno / 31, Nami / 32, Maiola / 33, Fakir / 33,  Archer / 34, MATD 2008 / 35, Klimax / 36, Odile & Elido / 36, Marat Pro / 38, Tomate & Lavigne Display / 39, FF Tisa / 40, Celeste / 41, FF Yoga / 42)
+- **Type reviews in Typo magazine** (Greta / issue 31, Arno / 31, Nami / 32, [Maiola](http://davi.cz/Writings/2011_Maiola-experience-the-czechness.html) / 33, Fakir / 33,  Archer / 34, MATD 2008 / 35, Klimax / 36, Odile & Elido / 36, Marat Pro / 38, Tomate & Lavigne Display / 39, FF Tisa / 40, Celeste / 41, FF Yoga / 42)
 
 ### Články online / Online articles
 
