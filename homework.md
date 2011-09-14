@@ -17,7 +17,7 @@ The „homework“ consists of two parts: sketching and reading.
 
 ### Návod
 
-- přeskicujte slovo „videospan“ podle libovolných **tří** z pěti výše uvedených písem.
+- přeskicujte slovo „videospan“ (jen v minuskách) podle libovolných **tří** z pěti výše uvedených písem.
 - litery neobkreslujte přes pauzák, ale otevřete si obrázek na počítači nebo vytiskněte a na samostatný papír skicujte.
 - kreslete písmena tak, aby měla střední výšku (x-height) cca. 3–4 cm
 - zbytečně se nevykreslujte s detaily, snažte se vystihnout „ducha písma“
@@ -25,7 +25,7 @@ The „homework“ consists of two parts: sketching and reading.
 
 ### How-to
 
-- sketch the word “videospan” according to any **three** samples out of the five above.
+- sketch the word “videospan” (lowercase only) according to any **three** samples out of the five above.
 - do not trace the letters on tracing paper, but open the picture on your computer or have it printed and sketch on another paper.
 - the letters should be ca 3–4 cm tall (x-height)
 - you do not need to be fussy about details, try to catch the “spirit of the type”
@@ -65,4 +65,4 @@ The cheapest way to get these books is (imho) buying used copy on [Abe Books](ht
 
 - [Summer reading for incoming MATD students](http://typefacedesign.tumblr.com/post/7341677579/summer-reading-for-incoming-matd-students)
 - [42 Typographic Resources for Designers](http://www.howdesign.com/how-magazine/how-july-2011/type-resources/1/)
-- [My pinboard](http://pinboard.in/u:mrbrezina)
+- [David’s pinboard](http://pinboard.in/u:mrbrezina)
