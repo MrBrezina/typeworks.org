@@ -7,8 +7,6 @@ V průběhu podzimních měsíců roku 2011 proběhne na [FaVU VUT](http://www.f
 
 **Do not speak Czech?** Never mind, the workshops are open to foreigners as well. See the FAQ below and check the [Google translation](http://translate.google.com/translate?js=n&prev=_t&hl=cs&ie=UTF-8&layout=2&eotf=1&sl=cs&tl=en&u=http%3A%2F%2Ftypeworks.org&act=url).
 
-**Registrace na workshopy je uzavřena.**
-
 Pokud máte zájem o další informace, zapište se k odběru občasného [mailing listu TypeTalks](http://typetalks.org/Subscribe.html) nebo sledujte [@TypeTalks na Twittru](http://twitter.com/typetalks).
 
 ## Program
@@ -21,11 +19,11 @@ Program je předběžný, je možné ho po domluvě upravit podle přání úča
 
 Seznámení se základními principy a postupem navrhování písma od konceptu k finálnímu produktu. Ukázky práce s programem FontLab Studio, kaligrafické principy v písmu, skicování a kreslení písma v počítači, …
 
-### II. Práce na vlastním písmu—4–6. listopadu ###
+### II. Práce na vlastním písmu—4–6. listopadu (1 place left) ###
 
 Rozpracování znakové sady a postupné ladění liter pro použití v textu. Rozpal písma, kerning, navrhování interpunkce, …
 
-### III. Navrhování pro nelatinkové skripty—9–11. prosince
+### III. Navrhování pro nelatinkové skripty—9–11. prosince (2 places left) ###
 
 Experimentální rozšířování písma o nelatinkovou část. Problémy multi-skriptové typografie, úvod do vybraných nelatinkových písmových systémů, navrhování diakritiky, programování OpenType funkcí pro zájemce, …
 
@@ -51,7 +49,7 @@ Experimentální rozšířování písma o nelatinkovou část. Problémy multi-
 **A:** Neklademe omezení na věk ani formální vzdělání účastníků. Předpokládáme zkušenosti z grafického designu a dobrou znalost programů Adobe InDesign a Adobe Illustrator (nebo podobný kreslící nástroj) a samozřejmě schopnost/ochotu se učit FontLab Studio či podobnou aplikaci (viz níže).
 
 **Q: Potřebuji licenci na FontLab Studio?  **  
-**A:** Pro účely workshopu postačí demoverze, která je [ke stažení na stránkách FontLabu](http://www.fontlab.com/font-editor/fontlab-studio/), či alternativní aplikace jako například [Fontographer](http://www.fontlab.com/font-editor/fontographer/), [Glyphs](http://glyphsapp.com/) či [FontForge](http://fontforge.sourceforge.net/). Ovšem k posledním uvedenému dvěma můžeme nabídnout jen omezenou podporu. Studenti AGD FaVU mají licenci FontLab Studia 5 k dispozici v ateliéru.
+**A:** Pro účely workshopu postačí demoverze, která je [ke stažení na stránkách FontLabu](http://www.fontlab.com/font-editor/fontlab-studio/), či alternativní aplikace jako například [Fontographer](http://www.fontlab.com/font-editor/fontographer/), [Glyphs](http://glyphsapp.com/), [RoboFont](http://robofont.com) či [FontForge](http://fontforge.sourceforge.net/). Ovšem k posledním uvedenému dvěma můžeme nabídnout jen omezenou podporu. Studenti AGD FaVU mají licenci FontLab Studia 5 k dispozici v ateliéru.
 
 **Q: Are foreigners welcome?**  
 **A:** Wholeheartedly! FaVU usually has one or two exchange students anyway. However, note that most of the lectures will be in Czech (that is the first day), the rest (two days out of three) consists of individual consultations on students’/participants’ projects. These can be done in English. Get in touch with us via email, we are happy to help and answer your questions.
