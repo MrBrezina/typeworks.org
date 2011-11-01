@@ -5,6 +5,8 @@ title: Intro
 
 V průběhu podzimních měsíců roku 2011 proběhne na [FaVU VUT](http://www.ffa.vutbr.cz/) v Brně několik **třídenních workshopů** věnovaných tvorbě typografického písma. Workshopy budou určeny primárně studentům Ateliéru grafického designu na FaVU, zároveň jsou však otevřeny pro **3–5 účastníků z řad veřejnosti**. Celkový počet účastníků se bude pohybovat okolo 15 osob.
 
+**Počet volných míst je uveden u jednotlivých workshopů. Poptávejte emailem (<info@typetalks.com>).**
+
 **Do not speak Czech?** Never mind, the workshops are open to foreigners as well. See the FAQ below and check the [Google translation](http://translate.google.com/translate?js=n&prev=_t&hl=cs&ie=UTF-8&layout=2&eotf=1&sl=cs&tl=en&u=http%3A%2F%2Ftypeworks.org&act=url).
 
 Pokud máte zájem o další informace, zapište se k odběru občasného [mailing listu TypeTalks](http://typetalks.org/Subscribe.html) nebo sledujte [@TypeTalks na Twittru](http://twitter.com/typetalks).
@@ -19,11 +21,11 @@ Program je předběžný, je možné ho po domluvě upravit podle přání úča
 
 Seznámení se základními principy a postupem navrhování písma od konceptu k finálnímu produktu. Ukázky práce s programem FontLab Studio, kaligrafické principy v písmu, skicování a kreslení písma v počítači, …
 
-### II. Práce na vlastním písmu—4–6. listopadu (1 place left) ###
+### II. Práce na vlastním písmu—4–6. listopadu (1 místo volné) ###
 
 Rozpracování znakové sady a postupné ladění liter pro použití v textu. Rozpal písma, kerning, navrhování interpunkce, …
 
-### III. Navrhování pro nelatinkové skripty—9–11. prosince (2 places left) ###
+### III. Navrhování pro nelatinkové skripty—9–11. prosince (2 místa volná) ###
 
 Experimentální rozšířování písma o nelatinkovou část. Problémy multi-skriptové typografie, úvod do vybraných nelatinkových písmových systémů, navrhování diakritiky, programování OpenType funkcí pro zájemce, …
 

@@ -48,7 +48,7 @@ The cheapest way to get these books is (imho) buying used copy on [Abe Books](ht
 
 - Robert Bringhurst, **The elements of typographic style**. Hartley & Marks Publishers, 3rd edition, 2004.
 - Jost Hochuli, **Detail in typography**. Hyphen Press, 2008.
-- Edward Johnston, **Writing & Illuminating & Lettering**. Dover Publications, 1995. (several editions by several publishers).
+- Michael Harvey, **Creative Lettering today**. Green Editorial, 1996.
 - Gerrit Noordzij, **The Stroke: Theory of Writing**. Hyphen Press, 2006.
 - Fred Smeijers, **Counterpunch: making type in the sixteenth century; designing typefaces now**. London, Hyphen Press, 1996. (second edition is due in October 2011)
 - Walter Tracy, **Letters of credit: a view of type design**. London, Gordon Fraser, 1986.
