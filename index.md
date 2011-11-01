@@ -5,7 +5,7 @@ title: Intro
 
 V průběhu podzimních měsíců roku 2011 proběhne na [FaVU VUT](http://www.ffa.vutbr.cz/) v Brně několik **třídenních workshopů** věnovaných tvorbě typografického písma. Workshopy budou určeny primárně studentům Ateliéru grafického designu na FaVU, zároveň jsou však otevřeny pro **3–5 účastníků z řad veřejnosti**. Celkový počet účastníků se bude pohybovat okolo 15 osob.
 
-**Počet volných míst je uveden u jednotlivých workshopů. Poptávejte emailem (<info@typetalks.com>).**
+**Počet volných míst je uveden u jednotlivých workshopů. Cena za jeden workshop je 3600 Kč. Místo si rezervujte předem emailem (<info@typetalks.com>).**
 
 **Do not speak Czech?** Never mind, the workshops are open to foreigners as well. See the FAQ below and check the [Google translation](http://translate.google.com/translate?js=n&prev=_t&hl=cs&ie=UTF-8&layout=2&eotf=1&sl=cs&tl=en&u=http%3A%2F%2Ftypeworks.org&act=url).
 
