@@ -25,7 +25,7 @@ Seznámení se základními principy a postupem navrhování písma od konceptu
 
 Rozpracování znakové sady a postupné ladění liter pro použití v textu. Rozpal písma, kerning, navrhování interpunkce, …
 
-### III. Navrhování pro nelatinkové skripty—9–11. prosince 2011 (1 místo volné)
+### III. Rozšiřování písmové rodiny—9–11. prosince 2011 (1 místo volné)
 
 Rozšiřování písma o další tučnosti (technologie Multiple master), akcentované znaky. Práce na interpunkci. Kerning a finální produkce fontů.
 
