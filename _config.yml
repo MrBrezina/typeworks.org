@@ -1,8 +1,0 @@
-safe: true
-auto: true
-destination: _site
-source: .
-baseurl: /typeworks.org/
-lsi: false
-pygments: true
-permalink: none
