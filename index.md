@@ -11,7 +11,7 @@ Pokud máte zájem o další informace, zapište se k odběru občasného [maili
 
 ## Program
 
-Workshopy povede typograf a písmař [David Březina](http://davi.cz) z [Rosetta Type Foundry](http://rosettatype.com). Budou určeny zvláště pro grafické designéry, kteří chtějí začít s tvorbou písma na počítači nebo prohloubit svoje znalosti. Vždy první den (pátek) bude více teoretický, další dva (sobota, neděle) budou převážně praktické (individuální konzultace samostatné práce). Jedním z výstupů workshopu by měl být fungující prototyp písmového fontu.
+Workshopy povede typograf a písmař [David Březina](http://mrbrezina.com) z [Rosetta Type Foundry](http://rosettatype.com). Budou určeny zvláště pro grafické designéry, kteří chtějí začít s tvorbou písma na počítači nebo prohloubit svoje znalosti. Vždy první den (pátek) bude více teoretický, další dva (sobota, neděle) budou převážně praktické (individuální konzultace samostatné práce). Jedním z výstupů workshopu by měl být fungující prototyp písmového fontu.
 
 Program je předběžný, je možné ho po domluvě upravit podle přání účastníků. Rovněž předpokládáme práci na vlastním písmu mezi jednotlivými workshopy a „domácí úkol“ před prvním workshopem. Další detaily budeme postupně upřesňovat.
 
@@ -72,6 +72,3 @@ Adresa budovy, kde se nachází ateliér AGD je [Rybářská 125/13/15, Brno](ht
 
 **Q: Are foreigners welcome?**  
 **A:** Wholeheartedly! FaVU usually has one or two exchange students anyway. However, note that most of the lectures will be in Czech (that is the first day), the rest (two days out of three) consists of individual consultations on students’/participants’ projects. These can be done in English. Get in touch with us via email, we are happy to help and answer your questions.
-
-**Q: Ubytování.**  
-**A:** Ubytování si musí účastníci zajistit na svoje náklady sami. Samozřejmě doporučujeme [Hotel Jonathan](http://www.hoteljonathan.cz) (5 min. busem, ošklivé stránky prosím ignorujte). Hotel nabízí pro účastníky TypeWorks slevu 15 %.
